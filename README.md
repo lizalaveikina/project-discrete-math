@@ -1,0 +1,2 @@
+# project-discrete-math
+itertools
